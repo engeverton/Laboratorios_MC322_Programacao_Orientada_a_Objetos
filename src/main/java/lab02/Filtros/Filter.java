@@ -1,7 +1,8 @@
 package lab02.Filtros;
 
 import java.util.List;
-import lab02.Evento;
+
+import lab02.model.Evento;
 
 /**
  * Interface que define o método filter para filtrar eventos

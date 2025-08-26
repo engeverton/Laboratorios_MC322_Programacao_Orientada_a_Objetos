@@ -1,7 +1,9 @@
 package lab02.Filtros;
 
-import lab02.Evento; // Import the Evento class from its package
 import java.util.List; // Import List from java.util
+
+import lab02.model.Evento;
+
 import java.util.ArrayList; // Import ArrayList from java.util
 
 /**

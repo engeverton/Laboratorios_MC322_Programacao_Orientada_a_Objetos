@@ -1,7 +1,8 @@
 package lab02.Filtros;
 
-import lab02.Evento; 
-import java.util.List; 
+import java.util.List;
+
+import lab02.model.Evento; 
 
 /**
  * Classe que implementa uma combinacao de dois filtros, que usa a lógica "AND"

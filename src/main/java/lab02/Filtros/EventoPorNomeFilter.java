@@ -1,7 +1,9 @@
 package lab02.Filtros;
 
-import lab02.Evento;
 import java.util.List;
+
+import lab02.model.Evento;
+
 import java.util.ArrayList;
 
 /**
