@@ -1,1 +1,2 @@
-# Laboratorios_MC322_Programacao_Orientada_a_Objetos
+# Labs-MC322
+Repositório de laboratórios da disciplina MC322 - Programação Orientada a Objetos
